@@ -20,5 +20,3 @@ jobs:
           pip install -r requirements.txt
       - name: Running flask app
         run: python app.py
-
-# YAML data
